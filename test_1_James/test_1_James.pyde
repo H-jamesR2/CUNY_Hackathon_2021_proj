@@ -1,3 +1,4 @@
+import random
 
 #added keyboard logic
 keyboard = {'Up': False, 'Left': False, 'Down': False, 'Right': False}
