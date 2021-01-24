@@ -15,9 +15,10 @@
   
   ## Drawings:
   <p float="left">
-    <img src="/img1.png" width="100" />
-    <img src="/img2.png" width="100" /> 
     <img src="/fwhackathonartpng/hackathon art dolphin.png" title='type_dolphin' width="100" alt='type_dolphin'/>
+    <img src="/fwhackathonartpng/hackathon art penguin.png" title='type_penguin' width="100" alt='type_penguin'/>
+    <img src="/fwhackathonartpng/hackathon art seal.png" title='type_seal' width="100" alt='type_seal'/>
+    <img src="/fwhackathonartpng/hackathon art turtle.png" title='type_turtle' width="100" alt='type_turtle'/>
   </p>
     
   ## License
