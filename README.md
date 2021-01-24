@@ -14,7 +14,7 @@
   * [x] 'Score' and 'Time' is tallied
   
   ## Drawings:
-  
+    <img src='hackathon art dolphin.png' title='type_dolphin' width='' alt='type_dolphin' />
   ## License
 
     Copyright [yyyy] [name of copyright owner]
