@@ -5,8 +5,8 @@
     # blue sea with walls -
     # draw particles-might be easier just to make them circles of varying size or blobs
     # figure how to implement arrow keys or any other interactive feature
-    # option for the user to chosoe 'player_type' [ or the comupter to chose
-    # draw animals-turtle, pacman, shark, -> i'd check the list of endangered species on google -- RU
+    # option for the user to chosoe 'player_type' [ or the computer to chose
+    # draw animals-turtle, pacman, shark, -> "i'd check the list of endangered species on google" -- RU
     # Implement the "facts" [thought bubbles] on the particles so when the animal eats the particle he gains a fact that is blown up  on a screen
   ## Implementations:
   * [x] User can move 'player_entity'
