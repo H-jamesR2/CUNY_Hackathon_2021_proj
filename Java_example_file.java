@@ -16,7 +16,7 @@ void setup() {
   }
 }
  
-void draw() {
+void draw() { //-> main function
   background(255);
   fill (0, 175, 255);
   smooth ();
@@ -73,7 +73,7 @@ void keyPressed() {
 }
  
  
-void render() {
+void render() { //-> rendering the player object
   for ( int i=-1; i < 2; i++) {
     for ( int j=-1; j < 2; j++) {
       pushMatrix();
